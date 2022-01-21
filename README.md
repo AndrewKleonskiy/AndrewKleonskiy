@@ -20,19 +20,9 @@
        <img width="150px" src="https://komarev.com/ghpvc/?username=AndrewKleonskiy&color=DE002D">
    </a>
 </div>
-  
-  
-<div align="center" style="margin: 40px 0">
-
-📱 Contact [🔝]:
-</div>
-  
-
-<div align="center" style="margin: 40px 0">
-
+    
    
    
-   
-<a href="https://t.me/AndrewK9" ><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /> </a>
+<a href="https://t.me/AndrewK9" ><img width="150px" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /> </a>
 <br>
 </div>
