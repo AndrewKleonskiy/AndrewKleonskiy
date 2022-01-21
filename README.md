@@ -12,14 +12,6 @@
        <img height=130 src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndrewKleonskiy&layout=compact"/></a>
 </p>
 
-  
-   
-<div align="center" style="margin: 40px 0">
-   <a href="https://github.com/AndrewKleonskiy/github-profile-views-counter">
-       <img width="175px" src="https://komarev.com/ghpvc/?username=AndrewKleonskiy&color=DE002D">
-   </a>
-</div>
-   
 
 <p align='center'>
    <a href="https://t.me/AndrewK9">
@@ -28,3 +20,10 @@
 <p align='center'>
    📫 How to reach me: <a href='mailto:co95310a@mail.ru'>co95310a@mail.ru.com</a>
 </p>
+
+
+<div align="center" style="margin: 40px 0">
+   <a href="https://github.com/AndrewKleonskiy/github-profile-views-counter">
+       <img width="175px" src="https://komarev.com/ghpvc/?username=AndrewKleonskiy&color=DE002D">
+   </a>
+</div>
