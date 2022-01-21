@@ -18,7 +18,7 @@
        <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
    </a>
 <p align='center'>
-   📫 How to reach me: <a href='mailto:co95310a@mail.ru'>co95310a@mail.ru.com</a>
+   📫 How to reach me: <a href='mailto:co95310a@mail.ru'>co95310a@mail.ru</a>
 </p>
 
 
